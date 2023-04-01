@@ -1,0 +1,19 @@
+{
+  "name": "daredevdiary",
+  "version": "1.0.0",
+  "description": "The WebSite DareDevDiary.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/niilz/DareDevDiary.git"
+  },
+  "author": "niilz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niilz/DareDevDiary/issues"
+  },
+  "homepage": "https://github.com/niilz/DareDevDiary#readme"
+}
